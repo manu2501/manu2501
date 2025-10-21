@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Manoj Kumar Kothuru  
 
 Welcome to my GitHub profile!  
-I'm a **Python Developer** with 7+ years of experience in backend development, API integration, and AWS cloud solutions. I enjoy building scalable platforms, optimizing systems, and mentoring developers.  
+I'm a **Software Engineer** with 7+ years of experience in backend development, API integration, and AWS cloud solutions. I enjoy building scalable platforms, optimizing systems, and mentoring developers.  
 
 ---
 
