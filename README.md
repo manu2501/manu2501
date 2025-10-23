@@ -43,10 +43,6 @@ You can view and download my latest resume here:
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to check out my repositories, contribute, or collaborate on meaningful projects!
-
-<h1 align="center">Hi 👋, I'm Manoj Kumar Kothuru</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manu2501&label=Profile%20views&color=0e75b6&style=flat" alt="manu2501" /> </p>
 
